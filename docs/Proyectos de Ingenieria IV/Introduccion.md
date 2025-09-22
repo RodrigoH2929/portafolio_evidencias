@@ -6,3 +6,8 @@ La propuesta de mi proyecto a desarrollar este semestre consiste en un dispositi
 
 # Boceto
 <img src="docs/recursos/imgs/Boceto_Sensor_UV.jpg" alt="Descripción de la imagen" width="420">
+
+# Características del producto
+ * Debe de ser capaz de transformar la intensidad de los rayos UV en valores numéricos.
+ * Tiene que ser capaz de generar una predicción en relación al tiempo que tardaría la piel en recibir daños.
+ * Tiene que tener los datos de los tipos de piel y como la variable de los rayos UV afecta de forma distinta a cada tipo de piel.
