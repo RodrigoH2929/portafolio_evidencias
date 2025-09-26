@@ -20,3 +20,4 @@ El nivel de madurez tecnológica (TRL) es importante porque permite medir de for
 
 # Syllabus Firmado
 
+[Descargar syllabus firmado](docs/recursos/archivos/SyllabusFirmado_RodrigoHR_PrIV.pdf)
