@@ -16,7 +16,7 @@ Para el diagrama de Gantt nuestro equipo utilizó una plataforma llamada JIRA, l
 
 - **Paso 1:** Añadimos las tareas u objetivos principales, aquellos que son esenciales que cumplamos para poder terminar un producto exitoso.
 
-![Paso1](docs/recursos/imgs/Captura de pantalla 2025-10-03 124252.jpg)
+![Paso_1](docs/recursos/imgs/Captura de pantalla 2025-10-03 124252.jpg)
 
 - **Paso 2:** Colocamos sub-objetivos que permitan monitorear de forma más específica los avances requeridos, de esta forma se puede dividir el trabajo de forma más eficiente. De igual manera esto nos sirve para irnos a la seccion de "cronograma" donde podemos visualizar en una linea de tiempo con las fechas de entrega de sección.
 
