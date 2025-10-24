@@ -12,6 +12,8 @@ Definir quién es el cliente de un proyecto y conocer el tamaño de su mercado e
 
 # Análisis de mercado
 
+El análisis de mercado es importante porque permite entender las necesidades, preferencias y comportamientos de los posibles usuarios, así como identificar la competencia y las oportunidades existentes. Gracias a este estudio, podemos definir mejor el público objetivo, ajustar el diseño y precio del producto y tomar decisiones más acertadas que aumenten las posibilidades de éxito y aceptación del proyecto en el mercado real.
+
 [Analisis_de_Mercado](https://docs.google.com/document/d/1U3TrH4D3F9_TvIXy5K0je2YD7HCqBrmoy5qXrAX4u7c/edit?usp=sharing)
 
 # Cuadro de Valor
