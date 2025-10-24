@@ -20,7 +20,7 @@ Para esto utilizamos la aplicación TRELLO?, la cual nos permite hacer todo lo a
 
 Para poder crear el prototipo necesitamos varios materiales, por lo mismo es imperativo encontrar los mejores precios que permitan mantener un costo de producción mínimo, ayudando así también a impulsar las ganancias del producto.Debido a lo mencionado nosotros investigamos en diferentes sitios web, desde empresas grandes (Mercado libre, Amazon) a locales pequeños (tiendas de electronica locales) para poder encontrar los mejores materiales por el mejor precio, a continuación incluyo la evidencia de dicha investigación.
 
-[Investigación_de_Costos](https://www.canva.com/design/DAG1bsu4Fcg/8mSzcyeuKD5USAmkrbKcHw/edit)
+[Investigacion de costos de arranque](https://iberopuebla.sharepoint.com/:x:/s/Section_13354E-O25/EQ0PryjV_qdLpqjuHYGGcPsBakV0j4IiY0hsXlkxGk67yw?e=R0LIy3)
 
 # Ciclos
 
