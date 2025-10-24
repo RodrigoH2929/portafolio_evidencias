@@ -18,6 +18,8 @@ El análisis de mercado es importante porque permite entender las necesidades, p
 
 # Cuadro de Valor
 
+El cuadro de valor es fundamental porque permite comparar nuestro producto con las alternativas existentes, destacando los aspectos que lo hacen único o más beneficioso para el usuario. A través de este análisis, podemos identificar fortalezas, debilidades y oportunidades de mejora, además de comunicar con claridad el valor que aporta nuestro proyecto, tanto en funcionalidad como en costo y accesibilidad.
+
 [cuadro_valor](https://www.canva.com/design/DAG0w_cchC4/iZkATuicc6fS7nchp_iR7w/edit?utm_content=DAG0w_cchC4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 # Análisis de las 5 fuerzas de Porter
