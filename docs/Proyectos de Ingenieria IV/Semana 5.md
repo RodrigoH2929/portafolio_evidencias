@@ -12,11 +12,11 @@ Definir quién es el cliente de un proyecto y conocer el tamaño de su mercado e
 
 # Análisis de mercado
 
-https://docs.google.com/document/d/1U3TrH4D3F9_TvIXy5K0je2YD7HCqBrmoy5qXrAX4u7c/edit?usp=sharing
+[Analisis_de_Mercado](https://docs.google.com/document/d/1U3TrH4D3F9_TvIXy5K0je2YD7HCqBrmoy5qXrAX4u7c/edit?usp=sharing)
 
 # Cuadro de Valor
 
-https://www.canva.com/design/DAG0w_cchC4/iZkATuicc6fS7nchp_iR7w/edit?utm_content=DAG0w_cchC4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+[cuadro_valor](https://www.canva.com/design/DAG0w_cchC4/iZkATuicc6fS7nchp_iR7w/edit?utm_content=DAG0w_cchC4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 # Análisis de las 5 fuerzas de Porter
 
@@ -34,4 +34,4 @@ Las cinco fuerzas son:
 
 * Amenaza de productos sustitutos: identifica si existen alternativas que puedan reemplazar la solución que ofrece el producto o servicio.
 
-https://www.canva.com/design/DAG0xGMiBc4/y4W1TcuNnE4gSCQcIF5zfA/edit?utm_content=DAG0xGMiBc4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+[Analisis_Fuerzas_Porter](https://www.canva.com/design/DAG0xGMiBc4/y4W1TcuNnE4gSCQcIF5zfA/edit?utm_content=DAG0xGMiBc4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
