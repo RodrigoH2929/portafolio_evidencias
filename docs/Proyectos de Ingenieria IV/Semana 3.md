@@ -1,5 +1,7 @@
 # Semana 3
 
+Esta semana elabromas un diagrama de gantt para poder visualizar de manera organizada las tareas que debemos realizar para poder concretar el proyecto, y designar un periodo específico de tiempo a cada tarea, todo con el propósito de agilizar la elaboración del producto final.
+
 # ¿Que es un diagrama de Gant?
 
 Un diagrama de Gantt es una herramienta de gestión de proyectos que muestra las tareas en un calendario visual.

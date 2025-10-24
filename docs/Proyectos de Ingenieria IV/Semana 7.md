@@ -14,5 +14,6 @@ En este caso, nosotros separamos nuestros costos de manera que se pueda identifi
 
 La distribución del producto es ESENCIAL para la creación y venta de una idea, ya que se tiene que considerar ¿a quién? y ¿cómo? vas a hacer llegar tu idea.
 
+
 A continuación adjunto nuestro [excel](https://iberopuebla.sharepoint.com/:x:/s/Section_13354E-O25/EQ0PryjV_qdLpqjuHYGGcPsBakV0j4IiY0hsXlkxGk67yw?e=R0LIy3).
 
